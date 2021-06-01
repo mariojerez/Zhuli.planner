@@ -30,5 +30,3 @@ Get what you have to do today: usersPlanner.toDoToday()
 
 Best,
 Mario Jerez
-
-![image](https://user-images.githubusercontent.com/72274387/120373522-70764d80-c2e6-11eb-9cd1-36009d9407d7.png)
