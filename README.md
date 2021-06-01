@@ -28,5 +28,3 @@ Construct new planner: Planner usersPlanner = new Planner(ZhuliUser user)
 Catalogue tasks into certain day of the week: usersPlanner.setSchedule()
 Get what you have to do today: usersPlanner.toDoToday()
 
-Best,
-Mario Jerez
